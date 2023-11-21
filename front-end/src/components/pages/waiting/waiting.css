@@ -1,0 +1,16 @@
+.table td,
+.table th,
+h2 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.swal-form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.swal-form .form-label-left {
+    text-align: left;
+}
